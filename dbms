@@ -1,0 +1,19 @@
+Create table stude (no number(2),name varchar (50),school varchar (100),hobby varchar (100),std number (2),gender varchar (1));
+
+insert into stude values (1,'ajit','xavier','dance',5,'m');
+insert into stude values (2,'alisha','sharda','singing',5,'f');
+insert into stude values (3,'pratixa','aone','cricket',5,'f');
+insert into stude values (4,'deepam','HBK','dance',6,'f');
+insert into stude values (5,'nisha','santkabir','painting',7,'f');
+insert into stude values (6,'anya','xavier','cricket',6,'f');
+insert into stude values (7,'raj','aone','singing',6,'m');
+insert into stude values (8,'monish','sharda','painting',6,'m');
+insert into stude values (9,'ram','aone','karate',6,'m');
+insert into stude values (10,'shyam','santkabir','dance',6,'m');
+insert into stude values (11,'kavisha','xavier','singing',7,'f');
+insert into stude values (12,'nayan','aone','swimming',7,'m');
+insert into stude values (13,'meet','somlalit','cricket',7,'m');
+insert into stude values (14,'urvi','sharda','cricket',7,'f');
+insert into stude values (15,'kunj','xavier','singing',8,'m');
+
+select * from stude ;
